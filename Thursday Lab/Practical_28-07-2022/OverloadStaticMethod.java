@@ -8,7 +8,7 @@ class OverloadStaticMethod
          
        public static void main(String args[])   
        {   
-          OverloadStaticMethod s = new OverloadStaticMethod();
-          s.sum(13,35);   
+            OverloadStaticMethod s = new OverloadStaticMethod();
+            s.sum(13,35);   
        }   
 }  
