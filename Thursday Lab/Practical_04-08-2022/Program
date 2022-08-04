@@ -1,1 +1,5 @@
-
+1.Java Program to Count Vowels and Consonants in a String
+2.Write a Java program to find duplicate elements and to count occurrences of each element in an array?
+3.How to check if two strings are anagrams of each other?
+  We can say if two strings are an anagram of each other if they contain the same characters but at different orders.
+  Ex. army & mary
