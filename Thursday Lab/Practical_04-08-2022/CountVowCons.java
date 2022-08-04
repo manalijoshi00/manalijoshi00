@@ -21,10 +21,10 @@ class CountVowCons
                {
                        consonants++;
                }
-          }
+        }
           System.out.println("Vowels :" + vowels);
           System.out.println("Consonants :" + consonants);
-    }
+     }
 } 
 
         
