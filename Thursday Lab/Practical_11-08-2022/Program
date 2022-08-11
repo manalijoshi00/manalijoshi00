@@ -1,1 +1,24 @@
-
+1. How to validate using regular expression?
+   user name
+   ----------
+   The username consists of 6 to 30 characters inclusive. If the username consists of less than 6 or greater than 30 characters, then it is an invalid username.
+   The username can only contain alphanumeric characters and underscores (_). Alphanumeric characters describe the character set consisting of lowercase characters [a – z], 
+   uppercase characters [A – Z], and digits [0 – 9].
+   The first character of the username must be an alphabetic character, i.e., either lowercase character [a – z] or uppercase character [A – Z].
+   
+  Email Address
+  -------------
+  Acceptable email prefix formats
+  Allowed characters: letters (a-z), numbers, underscores, periods, and dashes.
+  An underscore, period, or dash must be followed by one or more letter or number. 
+  Acceptable email domain formats
+  Allowed characters: letters, numbers, dashes.
+  The last portion of the domain must be at least two characters, for example: .com, .org, .cc
+  
+  Password
+  ----------
+  Length of password should be in between 8 to 16 characters.
+  A password should not contain any whitespace.
+  A password should contains each of the following: upper, lower, digit and a symbol.
+2.Program to delete duplicate object
+3.Program to add, retrieve & remove element from ArrayList
