@@ -16,5 +16,5 @@ class DuplicateObjectExa
             System.out.println("List : " + list);
             Set<String> set = new LinkedHashSet<String>(list);
             System.out.println("List after removing duplicate elements = "+set);
-   }
+      }
 }
