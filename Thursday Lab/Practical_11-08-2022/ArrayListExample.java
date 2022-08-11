@@ -14,5 +14,5 @@ class ArrayListExample
            System.out.println("After Removing :");
            System.out.println(arr);
            System.out.println("The element at 2nd index is: "+ arr.get(2));
-        }
+    }
 }
