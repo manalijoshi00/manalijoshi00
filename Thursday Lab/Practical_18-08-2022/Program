@@ -1,1 +1,4 @@
-
+1. write a java program that implements a multi-thread application that has three threads. first thread generates random integer every 1 second and if the value is even, 
+   second thread computes the square of the number and prints. if the value is odd, the third thread will print the value of cube of the number.
+2. Devise a Java program with three thread synchronization(thread-1 to generate prime numbers,thread-2 to generate 11 multiplication table andthread-3 to print the sequence 
+   3,6,18,72…..)Use both synchronized/joint() methods2.
