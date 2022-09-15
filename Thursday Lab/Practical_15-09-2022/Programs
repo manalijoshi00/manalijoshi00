@@ -1,1 +1,4 @@
-
+1. Write a Java application that uses looping to print the following table of values
+2. Create a subclass of the Car class and name it Sedan.The Sedan class has the following fields and methods. 
+   ◦int length; ◦double getSalePrice();//If length>20feet,5%discount,Otherwise,10%discount.
+3. Write a program to accept a specified number of characters as input and converts them into uppercase characters.
