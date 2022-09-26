@@ -1,1 +1,9 @@
-
+1.Rotate the Array Elements
+  Input – {1,2,3,4,5}
+  Output – 5 1 2 3 4
+  4 5 1 2 3
+  3 4 5 1 2
+  2 3 4 5 1
+  1 2 3 4 5
+2.Find the Second highest and Second smallest value in array
+3.Java Program to find duplicate Characters in a String by using Collections
